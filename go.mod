@@ -1,4 +1,4 @@
-module github.com/ldej/go-chat
+module github.com/ldej/go-grpc-example
 
 go 1.14
 
